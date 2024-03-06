@@ -52,4 +52,3 @@ const quinta = (string)=>{
     console.log(newString)
     return newString
 }
-terceira()
